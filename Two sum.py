@@ -9,3 +9,5 @@ class Solution:
                 h[num] = i # append num to h ex: {0: 2, 1: 7}
             else:
                 return [h[n], i] # return 
+            
+# reference HankLiu5 @ leetcode
